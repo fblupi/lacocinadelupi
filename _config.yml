@@ -19,13 +19,13 @@ skin: "/assets/css/skins/default.css"
 locale: es-ES
 title: "La Cocina de Lupi"
 description: "Recopilación de recetas."
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # "/lacocinadelupi"
+url: # "https://fblupi.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%d %-B, %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
-mathjax: # MathJax equations, e.g. true
+read_time: true
+words_per_minute: 200
+mathjax: true
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
@@ -48,15 +48,15 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
+paginate: 10
+paginate_path: /page:num/
 
 # Search
 search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -88,17 +88,32 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Fran Bolívar
   picture:
-  email:
-  twitter:
+  email: francisco.bolivar.lupianez@gmail.com
+  twitter: fblupi
   links:
-    - title:
-      url:
-      icon:
+    - title: Twitter
+      url: https://twitter.com/fblupi
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/fblupi
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/fblupi
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/fblupi
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/fblupi
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/fblupi
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
