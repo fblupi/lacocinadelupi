@@ -21,7 +21,7 @@ title: "La Cocina de Lupi"
 description: "Recopilación de recetas"
 baseurl: # "/lacocinadelupi"
 url: # "https://fblupi.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/images/lacocinadelupi-logo.png"
 date_format: "%d %-B, %Y"
 read_time: true
 words_per_minute: 200
