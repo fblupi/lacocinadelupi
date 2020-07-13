@@ -4,6 +4,9 @@ categories:
   - Platos principales
 tags:
   - Mexicano
+  - Cerdo
+  - Chiles
+  - Piña
 image:
   path: /images/tacos-al-pastor.jpg
   thumbnail: /images/tacos-al-pastor-400x200.jpg

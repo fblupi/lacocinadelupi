@@ -6,6 +6,9 @@ categories:
 tags:
   - Mexicano
   - Vegetariano
+  - Nachos
+  - Pico de guajillo
+  - Crema agria
 image:
   path: /images/nachos-pico-gallo-crema-agria.jpg
   thumbnail: /images/nachos-pico-gallo-crema-agria-400x200.jpg
