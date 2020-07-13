@@ -8,8 +8,8 @@ tags:
   - Chiles
   - Piña
 image:
-  path: /images/tacos-al-pastor.jpg
-  thumbnail: /images/tacos-al-pastor-400x200.jpg
+  path: /images/posts/tacos-al-pastor.jpg
+  thumbnail: /images/posts/tacos-al-pastor-400x200.jpg
   caption: Tacos al pastor
 ---
 

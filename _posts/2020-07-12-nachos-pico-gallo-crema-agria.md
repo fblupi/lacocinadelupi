@@ -10,8 +10,8 @@ tags:
   - Pico de guajillo
   - Crema agria
 image:
-  path: /images/nachos-pico-gallo-crema-agria.jpg
-  thumbnail: /images/nachos-pico-gallo-crema-agria-400x200.jpg
+  path: /images/posts/nachos-pico-gallo-crema-agria.jpg
+  thumbnail: /images/posts/nachos-pico-gallo-crema-agria-400x200.jpg
   caption: Nachos con pico de gallo y crema agria
 ---
 

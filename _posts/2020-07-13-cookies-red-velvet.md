@@ -8,8 +8,8 @@ tags:
   - Galleta
   - Chocolate
 image:
-  path: /images/cookies-red-velvet.jpg
-  thumbnail: /images/cookies-red-velvet-400x200.jpg
+  path: /images/posts/cookies-red-velvet.jpg
+  thumbnail: /images/posts/cookies-red-velvet-400x200.jpg
   caption: Cookies Red Velvet
 ---
 
