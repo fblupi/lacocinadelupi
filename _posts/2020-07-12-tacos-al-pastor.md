@@ -45,14 +45,14 @@ En más de una ocasión busqué la forma de hacerlos en casa, pero siempre encon
 
 1. Pochar los ajos y meda cebolla blanca en una sartén cortada en trozos grandes.
 2. Una vez estén pochados los ajos y la cebolla, añadimos los chiles (o los sustitutos) y las hojas de laurel dejando cocina a fuego medio durante un par de minutos.
-3. Antes de que se quemen los chiles, añadimos el vinagre y cubrimos con agaua. Tapamos y dejamos a fuego medio durante 5 minutos hasta que los chiles estén bien blandos.
+3. Antes de que se quemen los chiles, añadimos el vinagre y cubrimos con agua. Tapamos y dejamos a fuego medio durante 5 minutos hasta que los chiles estén bien blandos.
 4. Mientras tanto, majaremos en un mortero la cucharadita de pimienta, las bolas de Jamaica (o sustitutos), los clavos, el orégano, el comino, el jengibre y la sal.
 5. Escurrimos los líquidos sobrantes de la mezcla de chiles y los introducimos en una batidora junto al majado de especias. Trituramos hasta hacer una crema.
 6. Cortamos en tiras los filetes de lomo y los adobamos con la mezcla.
-7. Marinamos en en la nevera un mínimo de 3 horas (a más tiempo mejor, yo lo tuve un par de días).
+7. Marinamos en la nevera un mínimo de 3 horas (a más tiempo mejor, yo lo tuve un par de días).
 8. Cuando la carne esté lista, la hacemos a la plancha hasta que esté cocinada (sin pasarse para que esté jugosa).
 9. Cuando la carne esté hecha, sacamos de la sartén y salteamos la piña cortada en trozos.
 10. Una vez esté la piña caramelizada, retiramos, agregamos un chorro de aceite y pochamos media cebolla blanca cortada en julianas.
 11. Cuando la cebolla esté pochada, añadimos la carne y la piña y doramos a fuego medio unos minutos.
 12. Cortamos la cebolla morada en dados pequeños y picamos el cilantro.
-13. Montamos los tacos sobre la tortilla de maiz con la carne al pastor, la cebolla morada, el cilantro y un chorrito de limón.
+13. Montamos los tacos sobre la tortilla de maíz con la carne al pastor, la cebolla morada, el cilantro y un chorrito de limón.
