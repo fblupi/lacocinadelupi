@@ -15,7 +15,7 @@ image:
   caption: Pasta a la carbonara
 ---
 
-Yo soy de esos tantos a los que engañaron haciendo pensar que la pasta a la carbonara era con nata. Cuando en un programa de cocina escuché al cocinero mofarse de esa afirmación, sentí curiosidad por descubrir cuál era la auténtica receta. Resulta que la auténtica carbonara es mucho más fácil de hacer y además está notablemente más rica y sana que la que nos han vendido toda la vida. Básicamente consta de dos ingredientes: huevo y queso. Los cuales se condimentan con pimienta y la más purista se servía con _guanciale_, un producto común en la comida italiana pero que aquí en España se suele sustituir por bacon, en nuestro caso lo omitiremos para hacer una versión más sana y alternativa apta para vegetarianos.
+Yo soy de esos tantos a los que engañaron haciendo pensar que la pasta a la carbonara era con nata. Cuando en un programa de cocina escuché al cocinero mofarse de esa afirmación, sentí curiosidad por descubrir cuál era la auténtica receta. Resulta que la auténtica carbonara es mucho más fácil de hacer y además está notablemente más rica y sana que la que nos han vendido toda la vida. Básicamente consta de dos ingredientes: huevo y queso. Los cuales se condimentan con pimienta y a la más purista le añaden _guanciale_ (un producto común en la comida italiana pero que aquí en España se suele sustituir por bacon). En nuestro caso lo omitiremos para hacer una versión más sana y apta para vegetarianos.
 
 ## Ingredientes
 
