@@ -23,11 +23,11 @@ Cabe decir que este plato acepta modificaciones. Se puede añadir más picante, 
 * 1 zanahoria
 * 1 calabacín
 * 1 pimiento rojo
-* 1 cebolla morada
+* 1 cebolla
 * 4 dientes de ajo
 * 2 guindillas
 * 6 cucharadas de salsa de soja
-* 3 cucharadas de vinagre
+* 3 cucharadas de vinagre de manzana
 * 3 cucharadas de miel
 * 1 puñado de anacardos
 * 1 lima
