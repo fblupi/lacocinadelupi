@@ -1,7 +1,7 @@
 ---
 title: "Guacamole"
 categories:
-  - Entrantes
+  - Salsas
 tags:
   - Mexicano
   - Vegetariano
