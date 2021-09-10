@@ -13,7 +13,7 @@ image:
   caption: Arepas rellenas de Reina Pepiada
 ---
 
-Las arepas son uno de los platos más populares venezolanos. Aunque también pueden tomarse solas, normalmente se abren por la mitad y se les incluye algún relleno. En esta ocasión las vamos a rellenar del conocido como "reina pepiada".
+Las arepas son uno de los platos más populares venezolanos. Aunque también pueden tomarse solas, normalmente se abren por la mitad y se les incluye algún relleno. En esta ocasión las vamos a rellenar del conocido como "Reina Pepiada".
 
 Con las cantidades de a continuación se podrán realizar 6 arepas, cantidad con la que pueden comer 2 personas.
 
